@@ -20,8 +20,6 @@ Output: 5.0
 
 Ejemplo 2:
 
-
-
 Input: 10, 0
 Output: No se puede dividir por 0
 """
